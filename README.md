@@ -11,3 +11,9 @@ ___
 1. MS Dhoni
 2. Virat Kohli
 3. Rohit Sharma
+
+___
+### Other Favorite Teams
+* Australia
+* New Zealand
+* South Africa
