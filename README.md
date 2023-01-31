@@ -19,3 +19,14 @@ ___
 * South Africa
 
 [Click here to know about me](https://github.com/Poojitha2405/assignment2-naradasu/blob/main/AboutMe.md)
+
+___ 
+## My most recommended countries to visit
+
+Top 4 countries i recommend to travel are listed below:
+|**Countries**|**Why to go**       |**days to visit**|
+|-------------|--------------------|-----------------|
+|Australia    |visit Opera House   |5 days           |
+|United States|Visit Venice Beach  |3 days           |
+|France       |visit Eiffel Tower  |4 days           |
+|New Zealand  |visit Sky Tower     |3 days           |
