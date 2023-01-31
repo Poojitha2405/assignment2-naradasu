@@ -5,3 +5,9 @@ To learn more about repo
 ###### Team India
 
 I like Cricket as it is my **Favorite** sport since childhood and one of the best player according to me is **MS Dhoni**.He is also my role model.I enjoy this sport and also partipated in many competitions from school level.
+
+___
+### Team India
+1. MS Dhoni
+2. Virat Kohli
+3. Rohit Sharma
