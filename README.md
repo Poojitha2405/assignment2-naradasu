@@ -30,3 +30,8 @@ Top 4 countries i recommend to travel are listed below:
 |United States|Visit Venice Beach  |3 days           |
 |France       |visit Eiffel Tower  |4 days           |
 |New Zealand  |visit Sky Tower     |3 days           |
+
+___
+## My Favorite funny quotes
+1. `"Lazy fokes's stummucks don't git tired."` ---- by  **_Joel Chandler Harris_**
+2. `"There is nothing better than a friend, unless it's a friend with chocolate."` ---- by **_Linda Grayson_**
