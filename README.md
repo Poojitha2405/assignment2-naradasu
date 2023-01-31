@@ -35,3 +35,31 @@ ___
 ## My Favorite funny quotes
 1. `"Lazy fokes's stummucks don't git tired."` ---- by  **_Joel Chandler Harris_**
 2. `"There is nothing better than a friend, unless it's a friend with chocolate."` ---- by **_Linda Grayson_**
+
+___
+### CODE FENCING
+
+sample relavant question:Why am I getting 'Element type is invalid: expected a string or a class/function but got: number' when I try and import an svg file into a component?
+
+[link to question]<https://stackoverflow.com/questions/tagged/svg>
+
+```
+
+<div class="knockout">
+  
+  <svg class="knockout-text-container" width="100%" height="100%">
+    
+    <rect class="knockout-text-bg" width="100%" height="100%" fill="#000" x="0" y="0" fill-opacity="1" mask="url(#knockout-text)" />
+    
+    <mask id="knockout-text">
+      <rect width="100%" height="100%" fill="#fff" x="0" y="0" />
+      <text x="50%" y="50%" fill="#000" text-anchor="middle">Knock Out Text</text>
+    </mask>
+    
+  </svg>
+  
+</div>
+
+```
+
+[Link for Snippet reference Source URL](https://css-tricks.com/snippets/svg/svg-knockout-text/)
